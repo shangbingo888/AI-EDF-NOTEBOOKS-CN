@@ -1,0 +1,15 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+.DS_Store
+
+# Python packaging build artifacts
+*.egg-info/
+build/
+dist/
+
+# Translation scratch files (work lists and in-progress translations)
+.translation/
+.work/

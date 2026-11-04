@@ -1,0 +1,7 @@
+groq>=0.11
+sentence-transformers>=3.0
+tiktoken>=0.7
+numpy
+requests
+jupyter
+mlflow>=3.1
